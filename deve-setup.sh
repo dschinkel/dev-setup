@@ -1,5 +1,3 @@
-#!/bin/sh
-
 # Homebrew Script for OSX
 # To execute: save, then cd to the director that containts this file and run `chmod +x ./setup-pc-work.sh` then `./setup-pc-work.sh`
 
