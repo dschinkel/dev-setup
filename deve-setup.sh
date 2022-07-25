@@ -6,7 +6,7 @@
 echo "Following cannot be installed with Brew"
 echo "Giphy Capture: App Store"
 echo "Theine: App Store"
-echo "Microsoft Office (OneNote, etc.)"
+echo "Microsoft Office (OneNote, etc.): OneNote: App Store;  MS Office (other): log into MS's site"
 echo "Code Together"
 echo "oh-my-zsh: https://ohmyz.sh"
 
