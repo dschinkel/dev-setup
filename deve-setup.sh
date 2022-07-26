@@ -26,6 +26,7 @@ echo "Installing Communicaton Tools"
 brew install --cask zoom
 brew install --cask discord
 brew install --cask slack
+brew install --cask miro
 
 echo "Installing Languages"
 brew install node
