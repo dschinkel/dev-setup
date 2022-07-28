@@ -27,6 +27,7 @@ brew install --cask zoom
 brew install --cask discord
 brew install --cask slack
 brew install --cask miro
+brew install --cask gather
 
 echo "Installing Languages"
 brew install node
