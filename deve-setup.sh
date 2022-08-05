@@ -48,6 +48,7 @@ brew install --cask intellij-idea
 brew install --cask webstorm
 brew install --cask visual-studio-code
 brew install --cask pgadmin4
+get --no-check-certificate http://install.ohmyz.sh -O - | sh
 
 echo "Installing Various Utilities"
 brew install --cask iterm2
