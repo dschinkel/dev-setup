@@ -65,3 +65,4 @@ brew install --cask rectangle
 # brew install --cask cleanmymac
 brew install --cask obs
 brew install --cask 1password
+brew install --cask notion
