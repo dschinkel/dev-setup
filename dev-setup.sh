@@ -66,3 +66,6 @@ brew install --cask rectangle
 brew install --cask obs
 brew install --cask 1password
 brew install --cask notion
+
+echo "Installing AI Tools"
+brew install --cask chatgpt
