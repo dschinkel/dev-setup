@@ -15,7 +15,7 @@ get https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -
 
 echo "Installing brew..."
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/daveschinkel/.zprofile
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/dave/.zprofile
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
 echo "Installing Browsers"
