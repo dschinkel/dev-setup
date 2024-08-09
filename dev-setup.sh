@@ -1,5 +1,5 @@
 # Homebrew Script for OSX
-# To execute: save, then cd to the director that containts this file and run `chmod +x ./dev-setup.sh` then `./dev-setup.sh`
+# To execute: save, then cd to the director that containt this file and run `chmod +x ./dev-setup.sh` then `./dev-setup.sh`
 
 # just comment out the ones I don't want if the job / client doesn't need it
 
@@ -28,7 +28,7 @@ echo "Installing Browsers"
 brew install --cask google-chrome
 brew install --cask brave-browser
 
-echo "Installing Communicaton Tools"
+echo "Installing Communication Tools"
 brew install --cask zoom
 b# rew install --cask discord
 brew install --cask slack
