@@ -38,7 +38,6 @@ brew install --cask miro
 echo "Installing Languages"
 brew install node
 brew install nvm
-source ~/.nvm/nvm.sh
 brew install --cask oracle-jdk-javadoc
 
 echo "Installing Dev Tools..."
