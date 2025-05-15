@@ -68,3 +68,4 @@ brew install --cask notion
 
 echo "Installing AI Tools"
 brew install --cask chatgpt
+brew install --cask prusaslicer
