@@ -75,3 +75,6 @@ brew install --cask chatgpt
 # brew install --cask boom-3d
 # brew install --cask drawio
 # brew install --cask elmedia-player
+# brew install --cask keycastr
+# brew install --cask microsoft-onenote
+# brew install --cask paragon-ntfs
