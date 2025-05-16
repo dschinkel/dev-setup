@@ -78,3 +78,4 @@ brew install --cask chatgpt
 # brew install --cask keycastr
 # brew install --cask microsoft-onenote
 # brew install --cask paragon-ntfs
+# brew install --cask parallels
