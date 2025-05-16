@@ -30,7 +30,7 @@ brew install --cask brave-browser
 
 echo "Installing Communication Tools"
 brew install --cask zoom
-b# rew install --cask discord
+brew install --cask discord
 brew install --cask slack
 brew install --cask miro
 # brew install --cask gather
@@ -68,4 +68,10 @@ brew install --cask notion
 
 echo "Installing AI Tools"
 brew install --cask chatgpt
-brew install --cask prusaslicer
+# brew install --cask prusaslicer
+# brew install --cask 4k-video-downloader
+# brew install --cask adobe-creative-cloud
+# brew install --cask basecamp
+# brew install --cask boom-3d
+# brew install --cask drawio
+# brew install --cask elmedia-player
